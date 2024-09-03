@@ -1,0 +1,14 @@
+.logo{
+    background-image: url("..//imagens/img/logotipomt.png");
+    background-repeat: no-repeat;
+    display: block;
+    width: 60px;
+    height: 60px;
+    text-indent: -9999px;
+    margin: 0;
+    
+    &--branco{
+        background-image: url("..//imagens/img/logotipomt.png");
+        border-radius: 10px;
+    }
+}

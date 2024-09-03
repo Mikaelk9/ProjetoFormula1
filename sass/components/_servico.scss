@@ -1,0 +1,28 @@
+.servico{
+    padding: 30px 0;
+    overflow: auto;
+}
+.servicos__item{
+    text-align: center;
+    padding: 0 15px;
+    margin-bottom: 50px;
+    padding: 0 15px;
+    @media(min-width: $breakpoint-md){
+        float: left;
+        width: 33.333%;
+    }
+}
+.servicos__texto{
+    color: #585858;
+    font-size: 20px;
+}
+.img{
+    border-radius: 50%;
+    max-width: 150px;
+    max-height: 150px;
+}
+.img__carro{
+    width: 400px;
+    height: 200px;
+    border-radius: 30px;
+}

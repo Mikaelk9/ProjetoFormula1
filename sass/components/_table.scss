@@ -1,0 +1,52 @@
+.table{
+    overflow-x: auto;
+    padding: 40px;
+    box-shadow: 0 0 7px rgba(0,0,0,0.2);
+    border-radius: 10px;
+    margin: 0 auto;
+    max-height: 500px;
+    background-color: rgb(250, 250, 250);
+}
+.table-th__pontos{
+    border-right: 1px groove gray;
+}
+thead > tr{
+    text-transform: uppercase;
+}
+td{
+    padding: 2px 5px; 
+}
+.table-backred{
+    background-color: #f44242;
+    color: white;
+}
+.table-th__pontosredbull{
+    border-right: 4px solid $cor-redbull; 
+}
+.table-th__pontosmclaren{
+    border-right: 4px solid $cor-mclaren; 
+}
+.table-th__pontosferrari{
+    border-right: 4px solid $cor-ferrari; 
+}
+.table-th__pontosmercedes{
+    border-right: 4px solid $cor-mercedes; 
+}
+.table-th__pontosastonmartin{
+    border-right: 4px solid $cor-astonmartin; 
+}
+.table-th__pontosracingbulls{
+    border-right: 4px solid $cor-racingbulls; 
+}
+.table-th__pontoshass{
+    border-right: 4px solid $cor-hass; 
+}
+.table-th__pontoswilliams{
+    border-right: 4px solid $cor-williams; 
+}
+.table-th__pontossauber{
+    border-right: 4px solid $cor-sauber; 
+}
+.table-th__pontosalpine{
+    border-right: 4px solid $cor-alpine; 
+}

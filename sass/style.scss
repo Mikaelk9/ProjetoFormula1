@@ -1,0 +1,27 @@
+@import 'abstracts/_cores.scss';
+@import 'abstracts/_breakpoints.scss';
+
+@import 'base/_normalize.scss';
+@import 'base/_meu-reset.scss';
+@import 'base/_fontes.scss';
+
+@import 'layout/_cabecalho.scss';
+@import 'layout/_center.scss';
+@import 'layout/_rodape.scss';
+@import 'layout/_container.scss';
+@import 'layout/_alinhamento-img.scss';
+
+@import 'components/_depoimentos.scss';
+@import 'components/_formulario.scss';
+@import 'components/_logo.scss';
+@import 'components/_mapa.scss';
+@import 'components/_menu-principal.scss';
+@import 'components/_pagina-cabecalho.scss';
+@import 'components/_pagina-conteudo.scss';
+@import 'components/_servico.scss';
+@import 'components/_table.scss';
+
+@import 'pages/_proximogp.scss';
+@import 'pages/_pagina-inicial.scss';
+@import 'pages/_classificacao.scss';
+@import 'pages/_sobre-nos.scss';
